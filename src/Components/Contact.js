@@ -4,7 +4,7 @@ import '../Styles/Contact.css'
 function Contact() {
 
     return (
-        <section className="section bd_grid contact" id="iletisim">
+        <section className="bd_grid contact" id="iletisim">
             <div class="contact container">
             <h2 className="section_title" id="iletişim">İletişim</h2>
                 <div class="contact-items">
