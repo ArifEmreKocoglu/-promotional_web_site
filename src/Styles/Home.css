@@ -52,6 +52,15 @@
 	padding: 0 50px;
 	justify-content: flex-start;
 }
+#anasayfa .extra{
+	color: crimson;
+	display: block;
+	width: fit-content;
+	font-size: 2rem;
+	position: relative;
+    font-family: 'Montserrat', sans-serif;
+	animation-delay: 1s;
+}
 #anasayfa h1 {
 	display: block;
 	width: fit-content;
@@ -62,6 +71,7 @@
 	animation: text_reveal 0.5s ease forwards;
 	animation-delay: 1s;
 }
+
 #anasayfa h1:nth-child(1) {
 	animation-delay: 1s;
 }
@@ -123,6 +133,7 @@
 } */
 .homeSocial{
     margin-top: 200px;
+	margin-left: 25px;
     /* position: absolute; */
     /* display: flex; */
     /* margin-left: 270px; */

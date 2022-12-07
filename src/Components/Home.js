@@ -1,7 +1,6 @@
 import React from 'react'
 import '../Styles/Home.css';
 import { HomeSocial } from './HomeSocial.js';
-import { Slider } from './Slider.js';
 // import Grid from '@mui/material/Grid';
 // import Item from '@mui/material/Grid';
 
@@ -14,9 +13,9 @@ function Home() {
                         </div> */}
                         <div className="anasayfa">
                             <div>
-                            <h1>NOVA SAKARYA HALI YIKAMA <span></span></h1>
+                            <h1>SAKARYA NOVA HALI YIKAMA <span></span></h1>
                             <h1>En iyisi,<span></span></h1>
-                            <h1>En temizi <span></span></h1>
+                            <h2 className="extra">En temizi <span></span></h2>
                             <a href="#iletisim" type="button" className="cta">İletişim</a>
                            
                         </div>

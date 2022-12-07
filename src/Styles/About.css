@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Patua+One&display=swap');
+@import 'https://fonts.googleapis.com/css?family=Montserrat:300, 400, 700&display=swap';
 /* .about_circleOne{
     width: 250px;
     height: 250px;
@@ -23,17 +23,17 @@
 .about_text_Section .about_subtitle{
     margin-bottom: var(--mb-2);
     color: var(--second-color);
-    font-family: 'Patua One', cursive;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .about_text_Section .about_subtitle span{
     margin-bottom: var(--mb-2);
     font-size: 1rem;
     color: black;
-    font-family: 'Patua One', cursive;
+    font-family: 'Montserrat', sans-serif;
 }
 .about_text_Section p{
-    font-family: 'Patua One', cursive;
+    font-family: 'Montserrat', sans-serif;
 }
 .about_subtitle p{
     margin-bottom: var(--mb-2);

@@ -43,3 +43,9 @@
 	line-height: 2rem;
 	font-weight: 500;
 }
+
+@media screen and (max-width: 585px){
+	.contact{
+		margin-right: 140px;
+	}
+}
