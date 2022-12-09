@@ -7,7 +7,7 @@ import temizlik from '../img/temizlik.png';
 
 function Services() {
     return (
-        <section className="services section bd_grid" id="services">
+        <section className="services section bd_grid" id="hizmetler">
             <h2 className="section_title">Hizmetler</h2>
 
             <div className="serviceContainer bd_grid">

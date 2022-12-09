@@ -3,7 +3,7 @@ import '../Styles/About.css'
 import foto3 from '../img/7.jpg';
 function About() {
     return (
-        <section className="about section" id="hakkimda">
+        <section className="about section" id="hakkımızda">
 
         <h2 className="section_title">Hakkımızda</h2>
 

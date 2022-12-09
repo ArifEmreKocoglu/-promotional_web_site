@@ -6,24 +6,26 @@ const MenuList = [
     },
     {
         id : 2,
-        hyper_link : '/#hakkimda',
-        link_name: 'Hakkımda'
-    },
-    {
-        id : 3,
-        hyper_link : '/#services',
+        hyper_link : '/#hizmetler',
         link_name: 'Hizmetler'
     },
     {
+        id : 3,
+        hyper_link : '/#galeri',
+        link_name: 'Galeri'
+    },
+    {
         id : 4,
+        hyper_link : '/#hakkımızda',
+        link_name: 'Hakkımızda'
+    },
+
+    {
+        id : 5,
         hyper_link : '/#iletisim',
         link_name: 'İletişim'
     },
-    {
-        id : 5,
-        hyper_link : '/#galeri',
-        link_name: 'Galeri'
-    }
+
 ]
 
 export { MenuList };

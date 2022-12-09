@@ -5,7 +5,7 @@ import { HomeSocial } from './HomeSocial';
 function Footer() {
     return (
         <footer className="footer">
-            <p className="footer_title">Sakarya Halı Yıkama</p>
+            <p className="footer_title">Sakarya Nova Halı Yıkama</p>
             <div className="footerSocial">
 
                 {
